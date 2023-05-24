@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/sin-decade/sin-decade)
+![GitHub](https://img.shields.io/github/license/sin-decade/.github)
 ![Stars](https://img.shields.io/github/stars/sin-decade)
 
 In essence, **SinDecade** represents an amalgamation of the poem's
