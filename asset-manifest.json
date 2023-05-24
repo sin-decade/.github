@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.260e79f4.css",
+    "main.js": "./static/js/main.3093f606.js",
+    "static/media/cormorant-garamond-latin-400-normal.woff": "./static/media/cormorant-garamond-latin-400-normal.b36da887e85996f8187a.woff",
+    "static/media/bg-min.svg": "./static/media/bg-min.1dd3a87f0a0a25dcc1ee2c5534591d8f.svg",
+    "static/media/cormorant-garamond-latin-ext-400-normal.woff": "./static/media/cormorant-garamond-latin-ext-400-normal.e07b4105546ebaab66ff.woff",
+    "static/media/cormorant-garamond-latin-400-normal.woff2": "./static/media/cormorant-garamond-latin-400-normal.67504d05d7c304e680d1.woff2",
+    "static/media/cormorant-garamond-latin-ext-400-normal.woff2": "./static/media/cormorant-garamond-latin-ext-400-normal.adefe771fa0dd2f82d91.woff2",
+    "static/media/cormorant-garamond-cyrillic-ext-400-normal.woff": "./static/media/cormorant-garamond-cyrillic-ext-400-normal.f9c47e2958a5b32b38e7.woff",
+    "static/media/logo.ico": "./static/media/logo.c37b11ce61c4f35ebe5c.ico",
+    "static/media/cormorant-garamond-cyrillic-400-normal.woff": "./static/media/cormorant-garamond-cyrillic-400-normal.70302811448b0f525172.woff",
+    "static/media/cormorant-garamond-cyrillic-ext-400-normal.woff2": "./static/media/cormorant-garamond-cyrillic-ext-400-normal.59d7bb2b2116986117b1.woff2",
+    "static/media/cormorant-garamond-cyrillic-400-normal.woff2": "./static/media/cormorant-garamond-cyrillic-400-normal.4e70bf01853a0fb3cbb9.woff2",
+    "static/media/cormorant-garamond-vietnamese-400-normal.woff": "./static/media/cormorant-garamond-vietnamese-400-normal.e87d7a0eff96e9f484ee.woff",
+    "static/media/cormorant-garamond-vietnamese-400-normal.woff2": "./static/media/cormorant-garamond-vietnamese-400-normal.694753242e052b87ef3f.woff2",
+    "static/media/crescent.svg": "./static/media/crescent.4668786a3c1d0686fcd73d707da5bd1f.svg",
+    "index.html": "./index.html",
+    "static/media/star.svg": "./static/media/star.e39ae6b3884936ec8540cbb4670ad9f8.svg",
+    "main.260e79f4.css.map": "./static/css/main.260e79f4.css.map",
+    "main.3093f606.js.map": "./static/js/main.3093f606.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.260e79f4.css",
+    "static/js/main.3093f606.js"
+  ]
+}
