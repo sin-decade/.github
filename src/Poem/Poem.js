@@ -74,7 +74,7 @@ const Poem = ({isDarkTheme, isHidden}) => {
                         Eloquence surges forth, torrents bursting from her core,<br/>
                         Her body trembles, craving freedom evermore.<br/>
                         She clings to my hair, reins of wild stallions astride,<br/>
-                        Her hand slips 'twixt her lips, control she tries to hide.<br/>
+                        Her hand glides 'cross her lips, concealing the whispered tide.<br/>
                     </div>
                     <div className="verse special-font">
                         Overflowing with desire, her limbs tremble in despair,<br/>
